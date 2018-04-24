@@ -1,0 +1,46 @@
+C:\Users\Murat\Desktop\OOPSinav\OOPSinav\bin\Debug\OOPSinav.exe.config
+C:\Users\Murat\Desktop\OOPSinav\OOPSinav\bin\Debug\OOPSinav.exe
+C:\Users\Murat\Desktop\OOPSinav\OOPSinav\bin\Debug\OOPSinav.pdb
+C:\Users\Murat\Desktop\OOPSinav\OOPSinav\obj\Debug\OOPSinav.csprojResolveAssemblyReference.cache
+C:\Users\Murat\Desktop\OOPSinav\OOPSinav\obj\Debug\OOPSinav.Form1.resources
+C:\Users\Murat\Desktop\OOPSinav\OOPSinav\obj\Debug\OOPSinav.Properties.Resources.resources
+C:\Users\Murat\Desktop\OOPSinav\OOPSinav\obj\Debug\OOPSinav.csproj.GenerateResource.cache
+C:\Users\Murat\Desktop\OOPSinav\OOPSinav\obj\Debug\OOPSinav.csproj.CoreCompileInputs.cache
+C:\Users\Murat\Desktop\OOPSinav\OOPSinav\obj\Debug\OOPSinav.exe
+C:\Users\Murat\Desktop\OOPSinav\OOPSinav\obj\Debug\OOPSinav.pdb
+C:\Users\ua020713\Desktop\OOPSinav\OOPSinav\bin\Debug\OOPSinav.exe.config
+C:\Users\ua020713\Desktop\OOPSinav\OOPSinav\obj\Debug\OOPSinav.exe
+C:\Users\ua020713\Desktop\OOPSinav\OOPSinav\obj\Debug\OOPSinav.pdb
+C:\Users\ua020713\Desktop\OOPSinav\OOPSinav\bin\Debug\OOPSinav.exe
+C:\Users\ua020713\Desktop\OOPSinav\OOPSinav\bin\Debug\OOPSinav.pdb
+C:\Users\ua020713\Desktop\OOPSinav\OOPSinav\obj\Debug\OOPSinav.csprojResolveAssemblyReference.cache
+C:\Users\ua020713\Desktop\OOPSinav\OOPSinav\obj\Debug\OOPSinav.Form1.resources
+C:\Users\ua020713\Desktop\OOPSinav\OOPSinav\obj\Debug\OOPSinav.Properties.Resources.resources
+C:\Users\ua020713\Desktop\OOPSinav\OOPSinav\obj\Debug\OOPSinav.csproj.GenerateResource.Cache
+C:\Users\ua020713\Documents\Visual Studio 2015\Projects\Entity Framework\OOPSinav\OOPSinav\bin\Debug\OOPSinav.exe.config
+C:\Users\ua020713\Documents\Visual Studio 2015\Projects\Entity Framework\OOPSinav\OOPSinav\obj\Debug\OOPSinav.exe
+C:\Users\ua020713\Documents\Visual Studio 2015\Projects\Entity Framework\OOPSinav\OOPSinav\obj\Debug\OOPSinav.pdb
+C:\Users\ua020713\Documents\Visual Studio 2015\Projects\Entity Framework\OOPSinav\OOPSinav\bin\Debug\OOPSinav.exe
+C:\Users\ua020713\Documents\Visual Studio 2015\Projects\Entity Framework\OOPSinav\OOPSinav\bin\Debug\OOPSinav.pdb
+C:\Users\ua020713\Documents\Visual Studio 2015\Projects\Entity Framework\OOPSinav\OOPSinav\obj\Debug\OOPSinav.csprojResolveAssemblyReference.cache
+C:\Users\ua020713\Documents\Visual Studio 2015\Projects\Entity Framework\OOPSinav\OOPSinav\obj\Debug\OOPSinav.Form1.resources
+C:\Users\ua020713\Documents\Visual Studio 2015\Projects\Entity Framework\OOPSinav\OOPSinav\obj\Debug\OOPSinav.Properties.Resources.resources
+C:\Users\ua020713\Documents\Visual Studio 2015\Projects\Entity Framework\OOPSinav\OOPSinav\obj\Debug\OOPSinav.csproj.GenerateResource.Cache
+C:\Users\UGUR\Desktop\OOPSinav\OOPSinav\bin\Debug\OOPSinav.exe.config
+C:\Users\UGUR\Desktop\OOPSinav\OOPSinav\obj\Debug\OOPSinav.exe
+C:\Users\UGUR\Desktop\OOPSinav\OOPSinav\obj\Debug\OOPSinav.pdb
+C:\Users\UGUR\Desktop\OOPSinav\OOPSinav\obj\Debug\OOPSinav.csprojResolveAssemblyReference.cache
+C:\Users\UGUR\Desktop\OOPSinav\OOPSinav\obj\Debug\OOPSinav.Form1.resources
+C:\Users\UGUR\Desktop\OOPSinav\OOPSinav\obj\Debug\OOPSinav.Properties.Resources.resources
+C:\Users\UGUR\Desktop\OOPSinav\OOPSinav\obj\Debug\OOPSinav.csproj.GenerateResource.Cache
+C:\Users\UGUR\Desktop\OOPSinav\OOPSinav\bin\Debug\OOPSinav.exe
+C:\Users\UGUR\Desktop\OOPSinav\OOPSinav\bin\Debug\OOPSinav.pdb
+C:\Users\ua020713\Desktop\OOPSinav\OOPSinav\OOPSinav\bin\Debug\OOPSinav.exe.config
+C:\Users\ua020713\Desktop\OOPSinav\OOPSinav\OOPSinav\obj\Debug\OOPSinav.exe
+C:\Users\ua020713\Desktop\OOPSinav\OOPSinav\OOPSinav\obj\Debug\OOPSinav.pdb
+C:\Users\ua020713\Desktop\OOPSinav\OOPSinav\OOPSinav\obj\Debug\OOPSinav.csprojResolveAssemblyReference.cache
+C:\Users\ua020713\Desktop\OOPSinav\OOPSinav\OOPSinav\obj\Debug\OOPSinav.Form1.resources
+C:\Users\ua020713\Desktop\OOPSinav\OOPSinav\OOPSinav\obj\Debug\OOPSinav.Properties.Resources.resources
+C:\Users\ua020713\Desktop\OOPSinav\OOPSinav\OOPSinav\obj\Debug\OOPSinav.csproj.GenerateResource.Cache
+C:\Users\ua020713\Desktop\OOPSinav\OOPSinav\OOPSinav\bin\Debug\OOPSinav.exe
+C:\Users\ua020713\Desktop\OOPSinav\OOPSinav\OOPSinav\bin\Debug\OOPSinav.pdb

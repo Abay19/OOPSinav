@@ -1,0 +1,7 @@
+1-Departmanlar enum olacak 
+2-resim seç butonuna tikladigimizda fileupload açilacak ve resim seçilecek *
+3-seçilen resim anlik olarak picturebox üzerinde gösterilecek, *
+4-form üzerinde yer alan kompenentler doldurulduktan sonra, ekle butonuna tiklaninca listview üzerine ekelecenek.*
+5-class içerisinde resim yolunu tutacaginiz bir resimyolu propertysi ekleyiniz.
+6-güncellemede listview üzerindeki kayda tikladigimizda ilgili kompenentlere datalar dolacak,
+7-picturebox'a da ilgili resim gelecek *, resimler proje içerisinde bi klasör içerisinde tutulacak
